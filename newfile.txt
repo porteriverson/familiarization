@@ -1,1 +1,2 @@
-This is a text file with text inside of it. 
+This is a text file with text inside of it. Editing this file to say some more and different things
+This will become my first pull request I think. 
